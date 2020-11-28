@@ -4,7 +4,7 @@ A virtual additive synthesizer for Linux and Windows with MIDI support. It is de
 for live play and was originally released on http://zetacentauri.com and via the
 Ubuntu Software Center.
 
-![Sigmatizm Screenshot](https://github.com/Xangis/Sigmatizm/blob/master/images/Sigmatizm0.96.png)
+![Sigmatizm Screenshot](https://github.com/SamuraiCrow/Sigmatizm/blob/master/images/Sigmatizm0.96.png)
 
 Additive synthesis works by using a large number of sine wave oscillators at different 
 frequencies to create complex musical timbres. It is based on the mathematical theories 
